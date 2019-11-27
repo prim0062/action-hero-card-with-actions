@@ -34,3 +34,14 @@ html {
   box-shadow: 0 .1em .3em #000;
   color: #555;
 }
+
+.action-tools-bottom .action-btn {
+  color: #555;
+}
+
+.action-tools-bottom .action-btn:hover {
+  background-color: #fff;
+  filter: none;
+  box-shadow: 0 .1em .3em #000;
+  color: #555;
+}
